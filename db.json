@@ -1,0 +1,46 @@
+{
+  "todo": [
+    {
+      "id": "1634665944846",
+      "title": "Add item!",
+      "complete": false,
+      "editing": false,
+      "display": true
+    },
+    {
+      "id": "1634665956452",
+      "title": "we can add more items!",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1634665965821",
+      "title": "This looks nice",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1634675771756",
+      "title": "this is a new item",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1634675775532",
+      "title": "more to do",
+      "complete": true,
+      "editing": false,
+      "display": false
+    },
+    {
+      "id": "1634675777980",
+      "title": "so much to do",
+      "complete": true,
+      "editing": false,
+      "display": false
+    }
+  ]
+}
