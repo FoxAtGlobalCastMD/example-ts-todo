@@ -92,6 +92,7 @@ export default function TodoForm() {
     setTodos(restoredTodos as any);
   };
 
+  // visible array allows for empty icon to show up
   const visibleTodos = todos.filter((todo: ItemType) => {
     return todo.display;
   });
